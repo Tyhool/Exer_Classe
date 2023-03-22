@@ -76,13 +76,13 @@ public class App {
         // --------------------Invoice------------------------------
 
         // --------------------Ponto2D------------------------------
-         Ponto2D p2d = new Ponto2D();
-         p2d.calculoEuclidiana();
+        // Ponto2D p2d = new Ponto2D();
+        // p2d.calculoEuclidiana();
         // --------------------Ponto2D------------------------------
 
         // --------------------Elevador------------------------------
-        // Elevador elevador = new Elevador();
-        // elevador.mostrar();
+        Elevador elevador = new Elevador();
+        elevador.mostrar();
         // --------------------Elevador------------------------------
 
         // --------------------Data------------------------------
