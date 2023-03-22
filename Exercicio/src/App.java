@@ -81,13 +81,13 @@ public class App {
         // --------------------Ponto2D------------------------------
 
         // --------------------Elevador------------------------------
-        Elevador elevador = new Elevador();
-        elevador.mostrar();
+        // Elevador elevador = new Elevador();
+        // elevador.mostrar();
         // --------------------Elevador------------------------------
 
         // --------------------Data------------------------------
-        // Data data_1 = new Data();
-        // data_1.checar();
+         Data data_1 = new Data();
+         data_1.checar();
         // --------------------Data------------------------------
 
     }
